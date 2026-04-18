@@ -1,6 +1,6 @@
 # Risk Terminal
 
-Risk Terminal exists to put **the risk story for a DeFi position in one place**. Instead of hunting through disconnected write-ups, you work from a single **interactive dependency graph** of the smart contracts your funds touch, so how contracts connect, where trust is weaker, and what a failure could hit are visible **in the graph itself**, not buried in long blocks of plain text. The graph is grounded in **verified source code** (primarily [Sourcify](https://sourcify.dev/)), with sensible fallbacks when verification is incomplete.
+Risk Terminal is built so **the data you need to manage DeFi risk lives in one place**: resolved contracts, how they depend on each other, verification-backed trust signals, and the surrounding context you would otherwise chase across explorers, dashboards, and ad hoc notes. You work from a single **interactive dependency graph**, so exposure and relationships stay **readable from the visualization**, not buried in unstructured text. That view is anchored in **verified source code** (primarily [Sourcify](https://sourcify.dev/)), with sensible fallbacks when verification is incomplete.
 
 ## What it does
 
