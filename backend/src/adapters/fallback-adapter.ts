@@ -1,0 +1,3 @@
+// Fallback adapter is used when the contract is not found in Sourcify or Etherscan (unknown protocol).
+// Logic still in progress...
+

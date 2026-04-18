@@ -1,0 +1,2 @@
+// Resolver put ABI as a parameter to the router. Router scans ABI and tells resolver which adapter to use based on the signatures found in the ABI.
+// E.g If ABI has token0() + token1() + fee() then it's Uniswap V3 pool adapter.
